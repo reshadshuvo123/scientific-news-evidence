@@ -1,1 +1,0 @@
-# scientific-news-evidence
