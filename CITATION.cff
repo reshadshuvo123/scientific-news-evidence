@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: Finding Scientific Evidence for Scientific News
+message: If you use this software, please cite the SciEv paper below.
+type: software
+authors:
+  - family-names: Hoque
+    given-names: Md Reshad Ul
+repository-code: "https://github.com/reshadshuvo123/scientific-news-evidence"
+license: MIT
+preferred-citation:
+  type: article
+  title: "SciEv: Finding Scientific Evidence Papers for Scientific News"
+  authors:
+    - family-names: Hoque
+      given-names: Md Reshad Ul
+    - family-names: Li
+      given-names: Jiang
+    - family-names: Wu
+      given-names: Jian
+  year: 2022
+  journal: arXiv preprint
+  url: "https://arxiv.org/abs/2205.00126"
