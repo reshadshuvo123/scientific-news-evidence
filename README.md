@@ -194,7 +194,7 @@ If you use this work, please cite the relevant paper:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshadshuvo123/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/reshadshuvo123)
 
-This work was carried out with Dr. Jiang Li (ECE) and Dr. Jian Wu (CS) at Old Dominion University.
+This work was carried out with Dr. Jian Wu (CS) and Dr. Jiang Li (ECE) at Old Dominion University.
 
 ## 📄 License
 
